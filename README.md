@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/1c9sccm2mo0y6tk5/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ahj-homeworks-workers-loading-styling-front/branch/main)
 
 ### Loading Styling
 
