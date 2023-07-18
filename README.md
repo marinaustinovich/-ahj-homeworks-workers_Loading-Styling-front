@@ -19,5 +19,3 @@
 Для эмуляции задержки - [koa-slow](https://github.com/bahmutov/koa-slow).
 
 Для кеширования - плагин Workbox.
-
-
