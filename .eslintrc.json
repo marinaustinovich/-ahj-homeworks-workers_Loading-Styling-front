@@ -32,4 +32,5 @@
     "no-restricted-globals": ["error", "isNaN", "isFinite"]
   }
 }
+
   

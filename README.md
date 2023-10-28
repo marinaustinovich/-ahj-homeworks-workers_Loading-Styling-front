@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/1c9sccm2mo0y6tk5/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ahj-homeworks-workers-loading-styling-front/branch/main)
 
+deployment: https://marinaustinovich.github.io/-ahj-homeworks-workers_Loading-Styling-front/
+
 ### Loading Styling
 
 #### Легенда
